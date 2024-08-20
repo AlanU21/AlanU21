@@ -3,17 +3,6 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Programming Languages**: Python, Java, JavaScript, TypeScript, SQL, PHP
-- **AI/ML Frameworks**: TensorFlow, Keras, Pandas, scikit-learn, SARIMAX
-- **Web Development**:
-  - **Frontend**: HTML, CSS, ReactJS, Tailwind
-  - **Backend**: RDBMS’s (Oracle & PostgreSQL), REST APIs, Laravel PHP
-- **Tools**: Git, GitHub, Docker, Selenium, BeautifulSoup, CI/CD, Linux
-- **Methodologies**: Agile (Scrum), Atlassian Jira
-
-
 ### Currently LEARNING: Angular
 ### Currently PURSUING: AI/ML internships for Summer 2025
 
@@ -36,6 +25,20 @@
 ### [Valorant Discord Bot](https://github.com/cis3296s23/project-02-valorant-discord-bot)
 - **Technologies**: Python
 - Created a Discord bot with functionalities for agent recommendations and account information retrieval using REST APIs.
+
+---
+
+
+## 🛠️ Technical Skills
+
+- **Programming Languages**: Python, Java, JavaScript, TypeScript, SQL, PHP
+- **AI/ML Frameworks**: TensorFlow, Keras, Pandas, scikit-learn, SARIMAX
+- **Web Development**:
+  - **Frontend**: HTML, CSS, ReactJS, Tailwind
+  - **Backend**: RDBMS’s (Oracle & PostgreSQL), REST APIs, Laravel PHP
+- **Tools**: Git, GitHub, Docker, Selenium, BeautifulSoup, CI/CD, Linux
+- **Methodologies**: Agile (Scrum), Atlassian Jira
+
 
 ---
 

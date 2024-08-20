@@ -1,12 +1,48 @@
-## 👋 Hi, I'm Alan Uthuppan
+# 👋🏾 Hi, I'm Alan Uthuppan
+Data Science and Computer Science Graduate | Aspiring AI/ML Engineer
+-------------------------------------------------------------------
+
+I'm Alan Uthuppan, a recent graduate with dual degrees in **Data Science (Computational Analytics)** and **Computer Science** from Temple University. I specialize in AI/ML, particularly in applying machine learning models to real-world problems like air quality prediction and financial analysis. My GitHub showcases a range of projects that reflect my technical skills, passion for data science, and commitment to continuous learning.
+
+*  🌍  I'm based in Philadelphia, PA, USA
+*  ✉️  You can contact me at [alanuthuppan1@gmail.com](mailto:alanuthuppan1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alanuthuppan/)
+*  🧠  Currently learning: Angluar!
+
+## Technical Skills
+
+<p align="left"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" title="TensorFlow"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" title="Oracle"> 
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  </a>
+</p>
 
 
 ---
 
-### Currently LEARNING: Angular
-### Currently PURSUING: AI/ML internships for Summer 2025
-
----
 
 ## 🚀 Projects
 
@@ -28,20 +64,6 @@
 
 ---
 
-
-## 🛠️ Technical Skills
-
-- **Programming Languages**: Python, Java, JavaScript, TypeScript, SQL, PHP
-- **AI/ML Frameworks**: TensorFlow, Keras, Pandas, scikit-learn, SARIMAX
-- **Web Development**:
-  - **Frontend**: HTML, CSS, ReactJS, Tailwind
-  - **Backend**: RDBMS’s (Oracle & PostgreSQL), REST APIs, Laravel PHP
-- **Tools**: Git, GitHub, Docker, Selenium, BeautifulSoup, CI/CD, Linux
-- **Methodologies**: Agile (Scrum), Atlassian Jira
-
-
----
-
 ## 🎓 Education
 
 *Currently pursuing Artificial Intelligence and Machine Learning Master's Degree programs*
@@ -56,8 +78,7 @@
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [alanuthuppan](https://www.linkedin.com/in/alanuthuppan/)
-- **Email**: [alanuthuppan1@gmail.com](mailto:alanuthuppan1@gmail.com)
+
 
 ---
 

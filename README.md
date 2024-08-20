@@ -21,7 +21,7 @@
 
 ## 🚀 Projects
 
-### [Real-Time Air Quality LSTM Prediction Model](link-to-repo)
+### [LSTM Air Quality Predictor](https://github.com/AlanU21/LSTM_AirQuality_Predictor)
 - **Technologies**: Python, TensorFlow, Keras
 - Developed an LSTM neural network to predict air quality in Philadelphia, using extensive data from the OpenAQ API.
 

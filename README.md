@@ -1,9 +1,5 @@
 ## 👋 Hi, I'm Alan Uthuppan
 
-As a recent graduate with dual degrees in **Data Science** (with a concentration in Computational Analytics) and **Computer Science**, I am passionate about leveraging AI/ML technologies to tackle real-world challenges. My journey in AI began with a fascination for how machine learning models, inspired by the human brain, can be developed to ensure unbiased and beneficial outcomes for society.
-
-### Currently LEARNING: Angular
-### Currently PURSUING: AI/ML internships for Summer 2025
 
 ---
 
@@ -16,6 +12,10 @@ As a recent graduate with dual degrees in **Data Science** (with a concentration
   - **Backend**: RDBMS’s (Oracle & PostgreSQL), REST APIs, Laravel PHP
 - **Tools**: Git, GitHub, Docker, Selenium, BeautifulSoup, CI/CD, Linux
 - **Methodologies**: Agile (Scrum), Atlassian Jira
+
+
+### Currently LEARNING: Angular
+### Currently PURSUING: AI/ML internships for Summer 2025
 
 ---
 

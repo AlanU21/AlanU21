@@ -6,7 +6,7 @@ A recent graduate with dual degrees in **Data Science (Computational Analytics)*
 
 *  🌍  I'm based in Philadelphia, PA, USA
 *  ✉️  You can contact me at [alanuthuppan1@gmail.com](mailto:alanuthuppan1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alanuthuppan/)
-*  🧠  Currently learning: Angluar!
+*  🧠  Currently learning: Angular!
 
 ## Technical Skills
 

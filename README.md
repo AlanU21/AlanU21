@@ -74,12 +74,3 @@ A recent graduate with dual degrees in **Data Science (Computational Analytics)*
 - Temple University Science Scholar Research Program
 
 ---
-
-
-## 📫 Let's Connect!
-
-
-
----
-
-Feel free to explore my repositories and connect with me. I'm always open to discussing new projects, collaborations, or opportunities in AI/ML and software development.

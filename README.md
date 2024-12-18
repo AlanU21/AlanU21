@@ -1,8 +1,8 @@
 # 👋🏾 Hi, I'm Alan Uthuppan
-M.S. AI/ML Candidate | Aspiring AI/ML Engineer
+Master of Science in Artificial Intelligence & Machine Learning | Aspiring AI/ML Engineer
 -------------------------------------------------------------------
 
-A recent graduate with dual degrees in **Data Science (Computational Analytics)** and **Computer Science** from Temple University, I specialize in AI/ML, particularly in applying machine learning models to real-world problems like air quality prediction and financial analysis. My GitHub showcases a range of projects that reflect my technical skills, passion for data science, and commitment to continuous learning.
+A recent graduate with dual degrees in **Data Science (Computational Analytics)** and **Computer Science** from Temple University, I specialize in AI/ML, particularly in applying machine learning models to real-world problems like air quality prediction and financial analysis. Below is a little about me, my skills, my projects, and my passion for data science.
 
 *  🌍  I'm based in Philadelphia, PA, USA
 *  ✉️  You can contact me at [alanuthuppan1@gmail.com](mailto:alanuthuppan1@gmail.com) or [LinkedIn](https://www.linkedin.com/in/alanuthuppan/)
